@@ -1,0 +1,83 @@
+
+    * {
+        font-family: 'Open Sans', sans-serif;
+        background-color:#F1F1F1;
+        }
+    
+        .product {
+            width:80%;
+            height:120px;
+            border:1px solid rgb(211, 206, 206);;
+            margin:6px auto;
+            background-color:white;
+            padding:2px;
+            box-sizing:border-box;
+        }
+    
+        .title {
+            font-size:19px;
+            font-weight:bold;
+            color:#0056B3;
+            letter-spacing:0.03em;
+            text-decoration:none;
+            background-color:white;
+            padding:2px 15px;
+            margin:0;
+            cursor:pointer;
+        }
+    
+        .rate {
+            font-weight:200;
+            color:black;
+            font-size:15px;
+            background-color:white;
+            padding:2px 15px;
+            margin:0;
+        }
+    
+        .position {
+            font-weight:200;
+            color:black;
+            font-size:16.5px;
+            background-color:white;
+            padding:2px 15px;
+            margin:0;
+        }
+    
+        .count {
+            font-weight:200;
+            color:rgb(102, 99, 99);
+            font-size:13.5px;
+            background-color:white;
+            padding:2px 15px;
+            margin:0;
+        }
+    
+    .little {
+        font-size:14.5px;
+    }
+    
+        .col {
+            background-color:white;
+        }
+    
+    
+        #btn {
+            border:none;
+            background-color:rgb(196, 194, 194);
+            padding:7px 15px;
+            cursor:pointer;
+        }
+    
+        input {
+            background-color:white;
+            width:250px;
+            height:24px;
+            margin-right:5px;
+        }
+    
+        #top {
+            margin:20px auto 80px;
+            width:60%;
+            height:30px;
+        }

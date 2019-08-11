@@ -16,7 +16,7 @@ xhr.onload = function(){
         newArr.forEach(function(val){
         res.innerHTML +=`<div class="item">
         <div class="one-third">
-        <img src =${val.image} class="img" alt="brak obrazka"/>
+        <img src =${val.image} class="img" alt="obraz"/>
         </div>
         <div class="two-third">
         <a href=${val.link} target="_blank">
